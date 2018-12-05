@@ -2,4 +2,7 @@ red
 bule
 yellow
 pink
-that is the rainbow colour
+green
+orange
+purple
+there are the colours of rainbow 
