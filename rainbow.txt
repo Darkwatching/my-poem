@@ -2,3 +2,4 @@ red
 bule
 yellow
 pink
+that is the rainbow colour
